@@ -1,4 +1,6 @@
 # EDA-on-Indian-premier-league
+Data science and business analytics intern #TheSparksfoundation #GRIP
+Task level-Advanced
 Exploratory Data Analysis on Indian Premier league
 perform EDA on "indian premier league"
 1. Load the IPL dataset from the given URL.
